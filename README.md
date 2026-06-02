@@ -66,4 +66,4 @@ Avant ça : 5 ans d'expérience ERP (modules custom, migrations, automatisation)
 ## 📬 Me contacter
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abraham_Ricardo-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abraham-ricardo-hernandez-sompare-0761b9176/)
-[![Email](https://img.shields.io/badge/Email-abrahamricardogn224@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abrahamricardogn224@gmail.com)
+
