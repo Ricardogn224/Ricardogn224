@@ -1,6 +1,6 @@
 # Salut, moi c'est Ricardo 👋
 
-**Ingénieur R&D · Backend Python/Django · ERP Odoo · DevOps**  
+**Ingénieur R&D · Backend Python/Django · ERP · DevOps**  
 📍 Suisse (HE-ARC Ingénierie, Neuchâtel) 
 
 ---
@@ -53,13 +53,6 @@ Avant ça : 5 ans d'expérience ERP (modules custom, migrations, automatisation)
 | [django-workshop](https://github.com/Ricardogn224/django-workshop) | Atelier pratique Django REST | Python · Django |
 | [portfolio-mobile-apps](https://github.com/Ricardogn224/portfolio-mobile-apps) | Portfolio d'applications mobiles | Flutter · HTML |
 
----
-
-## 📊 GitHub Stats
-
-![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricardogn224&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=0d7c6e&icon_color=0d7c6e)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardogn224&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=0d7c6e)
 
 ---
 
