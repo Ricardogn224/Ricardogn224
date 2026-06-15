@@ -8,7 +8,7 @@
 ## 🧑‍💻 À propos
 
 Ingénieur logiciel passionné par les systèmes bien architecturés et la recherche appliquée.  
-Je travaille actuellement à la **HE-ARC Ingénierie** (Neuchâtel, Suisse) en tant qu'ingénieur R&D — conception de prototypes, backend Python/Django, DevOps et support aux chercheurs.
+Je travaille actuellement à la **HE-ARC Ingénierie** (Neuchâtel, Suisse) en tant qu'ingénieur R&D, conception de prototypes, backend Python/Django, DevOps et support aux chercheurs.
 
 Avant ça : 5 ans d'expérience ERP (modules custom, migrations, automatisation) et développement front et backend pour des PME.
 
